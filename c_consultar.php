@@ -16,8 +16,8 @@
             <div id="page-inner">
                 <div class="row">
                     <div class="col-md-12">
-                     <h2>Consultar Dados dos Alunos</h2>   
-                        <h5>Consulte todas os dados do aluno, caso necessario altere ou realize a exclusão. </h5>
+                     <h2>Consultar Dados do Aluno</h2>   
+                        <h5>Consulte todas os doados do aluno, caso necessario altere ou realize a exclusão. </h5>
                        
                     </div>
                 </div>

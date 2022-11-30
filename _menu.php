@@ -7,10 +7,10 @@
 				
 					
                     <li>
-                        <a  href="c_novo_aluno.php"><i class="glyphicon glyphicon-user fa-2x"></i>Cadastrar Alunos</a>
+                        <a  href="c_novo_aluno.php"><i class="glyphicon glyphicon-user fa-2x"></i>Cadastrar Aluno</a>
                     </li>
                       <li>
-                          <a  href="c_novo_curso.php"><i class="glyphicon glyphicon-folder-open fa-2x"></i>Cadastrar Cursos</a>
+                          <a  href="c_novo_curso.php"><i class="glyphicon glyphicon-folder-open fa-2x"></i>Cadastrar Curso</a>
                     </li>
                     <li>
                         <a  href="c_consultar.php"><i class="glyphicon glyphicon-search fa-2x"></i> Consultar</a>
