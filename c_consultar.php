@@ -17,16 +17,16 @@
                 <div class="row">
                     <div class="col-md-12">
                      <h2>Consultar Dados do Aluno</h2>   
-                        <h5>Consulte todas os doados do aluno, caso necessario altere ou realize a exclusão. </h5>
+                        <h5>Consulte todas os dados do aluno, caso necessario altere ou realize a exclusão.</h5>
                        
                     </div>
                 </div>
-                 <!-- /. ROW  -->
+                 <!-- /. Coluna  -->
                  <hr />
                
             <div class="row">
                 <div class="col-md-12">
-                    <!-- Advanced Tables -->
+                    <!-- Avança tabelas -->
                     <div class="panel panel-default">
                         <div class="panel-heading">
                              Dados do Aluno
@@ -56,24 +56,25 @@
                     <!--Final e inicio de outras colunas -->
                 </div>
             </div>
-                <!-- /. ROW  -->
+                <!-- /. Coluna  -->
             
-                <!-- /. ROW  -->
+                <!-- /. Coluna  -->
             
-                <!-- /. ROW  -->
+                <!-- /. Coluna  -->
            
-                <!-- /. ROW  -->
+                <!-- /. Coluna  -->
         </div>
                
     </div>
-             <!-- /. PAGE INNER  -->
+             <!-- /. Página Interna  -->
             </div>
                         
                     </div>
-                    <!-- /. PAGE INNER  -->
+                    <!-- /. Página Interna  -->
                 </div>
-                <!-- /. PAGE WRAPPER  -->
+                <!-- /. Página Externa  -->
         </div>
 
     </body>
 </html>
+

@@ -2,11 +2,11 @@
 session_start();
 include_once("conexao.php");
 
-$nome = filter_input(INPUT_POST, 'nome', FILTER_SANITIZE_STRING);
-$email = filter_input(INPUT_POST, 'email', FILTER_SANITIZE_EMAIL);
-$endereco = filter_input(INPUT_POST, 'endereco', FILTER_SANITIZE_STRING);
-$cidade = filter_input(INPUT_POST, 'cidade', FILTER_SANITIZE_STRING);
-$uf = filter_input(INPUT_POST, 'uf', FILTER_SANITIZE_STRING);
+$nome = $_POST["nome"];
+$email = $_POST["email"];
+$endereco =$_POST["endereco"];
+$cidade = $_POST["cidade"];
+$uf = $_POST["uf"];
 
 //testando o POST:
 //echo "nome: $nome<br>";

@@ -1,4 +1,5 @@
-create schema dba_aluno;
+create database dba_aluno;
+
 use dba_aluno;
 
 create table curso(
