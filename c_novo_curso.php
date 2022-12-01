@@ -15,7 +15,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <h2>Cadastrar Curso</h2>   
-                        <h5>cadastre todas as informações do curso. </h5>
+                        <h5>Cadastre todas as informações do curso.</h5>
                     </div>
                 </div>
                 <hr/>
@@ -39,4 +39,9 @@
             </div>
         </div>
     </body>
+
+    <footer>
+    <p> Etec Todos os direitos reservados </p>
+    </footer>
+    
 </html>

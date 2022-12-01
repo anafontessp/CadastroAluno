@@ -22,7 +22,7 @@ session_start();
                 <div class="row">
                     <div class="col-md-12">
                         <h2>Cadastrar Aluno</h2>   
-                        <h5>cadastre todas as informações do aluno. </h5>
+                        <h5>Cadastre todas as informações do aluno.</h5>
                     </div>
                 </div>
                 <hr/>
@@ -66,4 +66,8 @@ session_start();
             </div>
         </div>
     </body>
+    
+    <footer>
+    <p> Etec Todos os direitos reservados </p>
+    </footer>
 </html>
