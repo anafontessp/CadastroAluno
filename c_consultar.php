@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
     <head>
         <?php
         include_once '_head.php';
@@ -53,7 +53,7 @@
                             
                         </div>
                     </div>
-                    <!--End Advanced Tables -->
+                    <!--Final e inicio de outras colunas -->
                 </div>
             </div>
                 <!-- /. ROW  -->

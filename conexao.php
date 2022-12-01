@@ -12,7 +12,7 @@
 //    echo 'Erro: ' . $ex->getMessage();
 //}
 
-//conexao Mysqli:
+//conexao Mysql:
 $servidor = "localhost";
 $usuario = "root";
 $senha = "";
