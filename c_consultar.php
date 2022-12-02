@@ -41,12 +41,29 @@
                                         </tr>
                                     </thead>
                                     <tbody>
-                                        <tr class="odd gradeX">
-                                            <td>(Nome)</td>
-                                            <td><a href="c_alterar.php.php" class="btn btn-warning btn-xs">Alterar</a>
-                                            <a href="#" class="btn btn-danger btn-xs">Excluir</a>
-                                            </td>
-                                        </tr>
+                                        <?php
+                                        include("conexao.php");
+                                         try {
+                                            $stmt = $pdo->prepare("select * from aluno");
+
+                                            $stmt->execute();
+
+                                            while ($row = $stmt->fetch(PDO::FETCH_BOTH)) {
+                                             echo "<tr>";
+                                            echo "<th scope=\"row\"> $row[0] </th>";
+                                            echo "<td> " . $row[1] . " </td>";
+                                            echo "<td>" . $row[2] . " </td>";
+                                            echo "<td>" . $row[3] . " </td>";
+                                            echo "<td>" . $row[4] . "</td>";
+                                            echo "<td>" . $row[5] . "</td>"; 
+                                            echo "<td><a href='excluir-aluno.php?id=$row[0]'> Excluir </a></td>";
+                                        }
+                                        }
+                                        catch (PDOException $e) {
+                                        echo "Erro: " . $e->getmessage();
+                                        }
+                                        ?>
+
                                     </tbody>
                                 </table>
                             </div>

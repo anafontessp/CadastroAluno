@@ -42,7 +42,7 @@ body {
     border:1px solid #f3f3f3;
 }
 h2 {
-    color: #3782C6;
+    color: #032c61;
 }
 h4 {
     padding-top:10px;
@@ -142,7 +142,7 @@ font-size: 40px;
       -webkit-border-radius: 0px;
 -moz-border-radius: 0px;
 border-radius: 0px;
-background-color:#2EA7EB;
+background-color:#032c61;
 color:#fff;
 }
     .back-dash p {
@@ -207,7 +207,7 @@ max-width:170px;
 
 .navbar-cls-top .navbar-brand {
 color: #fff;
-background: #3782C6; 
+background: #032c61; 
 width: 260px;
 text-align: center;
 height: 60px;
@@ -305,7 +305,7 @@ font-weight: 700;
 	
 }
 .navbar-cls-top {
-	background:#3782C6;
+	background:#032c61;
 	border-bottom:none;
 	
 }

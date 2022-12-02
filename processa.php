@@ -1,6 +1,6 @@
 <?php
 session_start();
-include_once("conexao.php");
+include("conexao2.php");
 
 $nome = $_POST["nome"];
 $email = $_POST["email"];

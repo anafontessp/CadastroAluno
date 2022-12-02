@@ -15,9 +15,6 @@
                     <li>
                         <a  href="c_consultar.php"><i class="glyphicon glyphicon-search fa-2x"></i> Consultar</a>
                     </li>
-                    <li>
-                        <a  href="c_consultar.php"><i class="glyphicon glyphicon-search fa-2x"></i> Busca</a>
-                    </li>
 	           
                     						  
 
